@@ -15,7 +15,7 @@ if q1 and q2 == 'y':
         if ran == 1:
             senha = random.choice(cha1)
         else:
-            senha = random.randint(0,9)
+            senha = str(random.randint(0,9))
         senhap.append(senha)
 
 if q1 == 'n' and q2 == 'y':
@@ -24,7 +24,7 @@ if q1 == 'n' and q2 == 'y':
         if ran == 1:
             senha = random.choice(cha2)
         else:
-            senha = random.randint(0,9)
+            senha = str(random.randint(0,9))
         senhap.append(senha)
 
 if q1 =='y' and q2 == 'n':
@@ -39,7 +39,7 @@ if q1 and q2 == 'n':
         if ran == 1:
             senha = random.choice(cha2)
         else:
-            senha = random.randint(0,9)
+            senha = str(random.randint(0,9))
         senhap.append(senha)
 
 print(''.join(senhap))
