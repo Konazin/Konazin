@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to some knowledge opportunity<br>🤝 I’m looking for help with side projects and back-end things<br>🌱 I’m currently learning Python, JavaScript, SQL and more<br>⚡ Fun fact: I know how to use, some times, Linux ;)
+👯 I’m looking to some knowledge opportunity<br>🤝 I’m looking for help with side projects and back-end things<br>🌱 I’m currently learning Python, JavaScript, SQL and more<br>⚡ Fun fact: I know how to use, sometimes, Linux ;)
 
 
 # 💻 Tech Stack:
