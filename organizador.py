@@ -18,4 +18,4 @@ def apagar():
 if faz == 'copiar':
     copia()
 elif faz == 'apagar':
-    apaga()
+    apagar()
