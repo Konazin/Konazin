@@ -1,0 +1,10 @@
+from time import *
+from tkinter import *
+from tkinter import ttk
+
+def tempo():
+    localtime()
+jan = Tk()
+ttk.Label(jan, text= 'relogio').grid(column=0, row=0)
+jan.geometry("500x500")
+jan.mainloop()
