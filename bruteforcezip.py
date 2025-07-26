@@ -2,9 +2,9 @@ import string
 import pyzipper
 from itertools import product
 
-arq = str(input('adicione o caminho do zip:'))
-force = []
-senha = string.digits
+cs = int(input('quantos digitos tem(ou você acredita que tenha) a senha?: '))
+arq = str(input('adicione o caminho do zip: '))
+senha = string.digits + string.ascii_lowercase + string.ascii_uppercase
 
 def ext(sen):
     try:
@@ -14,7 +14,7 @@ def ext(sen):
     except:
         return False
 
-for comb in product(senha, repeat=3):
+for comb in product(senha, repeat= cs):
     res = ''.join(comb)
     print(f'Testando: {res}')
     if ext(res):
