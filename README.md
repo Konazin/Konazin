@@ -3,7 +3,9 @@
 ```typescript
 const profile = {
   name: "Miguel Sousa",
-  bio: "As a diligent and focused cybersecurity student and analyst, with a background in technical IT for the internet, I'm deeply committed to upholding the highest standards of ethics and data confidentiality. I continuously strive to enhance my skills, safeguard information, and stay abreast of emerging threats to effectively protect both organizational and personal data.",
+  bio: "As a diligent and focused cybersecurity student and analyst, with a background in technical IT for the internet, I'm deeply
+  committed to upholding the highest standards of ethics and data confidentiality. I continuously strive to enhance
+  my skills, safeguard information, and stay abreast of emerging threats to effectively protect both organizational and personal data.",
   currentWork: "Working on personal projects only.",
   learning: "Learning C, Python, JavaScript, SQL, Typescript and Java to improve my acknowledgement on back-end and security applications. ",
   interests: "Back-end projects,ethical hacking,build automation applications,open-source.",
@@ -21,11 +23,11 @@ const profile = {
 
 ## 🔭 I'm currently working on
 
-Working on personal projects only.
+personal projects only.
 
 ## 🌱 I'm currently learning
 
-Learning C, Python, JavaScript, SQL, Typescript and Java to improve my acknowledgement on back-end and security applications. 
+C, Python, JavaScript, SQL, Typescript and Java to improve my acknowledgement on back-end and security applications. 
 
 ## 👀 I'm interested in
 
