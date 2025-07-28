@@ -1,95 +1,49 @@
-# Miguel Sousa
+<h1 align="center">👋 Hi there! I'm Miguel Sousa (Konazin)</h1>
 
-```typescript
-const profile = {
-  name: "Miguel Sousa",
-  bio: "As a diligent and focused cybersecurity student and analyst, with a background in technical IT for the internet, I'm deeply
-  committed to upholding the highest standards of ethics and data confidentiality. I continuously strive to enhance
-  my skills, safeguard information, and stay abreast of emerging threats to effectively protect both organizational and personal data.",
-  currentWork: "Working on personal projects only.",
-  learning: "Learning C, Python, JavaScript, SQL, Typescript and Java to improve my acknowledgement on back-end and security applications. ",
-  interests: "Back-end projects,ethical hacking,build automation applications,open-source.",
-  skills: [
-    "MySQL",
-    "SQLite",
-    "C",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java"
-  ],
-}
-```
-
-## 🔭 I'm currently working on
-
-personal projects only.
-
-## 🌱 I'm currently learning
-
-C, Python, JavaScript, SQL, Typescript and Java to improve my acknowledgement on back-end and security applications. 
-
-## 👀 I'm interested in
-
-Back-end projects, ethical hacking, build automation applications, open-source.
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark&column=7&margin-w=15&margin-h=15" />
+  <img src="https://komarev.com/ghpvc/?username=Konazin&label=Profile%20views&color=0e75b6&style=flat" alt="Konazin" />
 </p>
 
-## 📊 GitHub Stats
+---
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+🎯 **About Me**
 
-## 🔝 Most Used Languages
+I'm a focused and dedicated **Cybersecurity student & analyst**.  
+Passionate about protecting systems, data, and people.  
+Strong believer in **ethics and confidentiality**.  
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=dark"/>
-</div>
+Studying **Internet Information Technology** at IMD/UFRN.  
+Constantly learning about **networks, programming**, and **infosec**.
 
-## 🔥 Contribution Streak
+---
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=false" />
-</div>
+🛠️ **Skills & Tools**
 
-## 💻 Tech Stack
+- 🛡️ Cybersecurity • Ethical Hacking • Pentesting  
+- 🐍 Python • Bash • Shell  
+- ⚙️ C • SQL (learning)  
+- 🌐 HTML • CSS • JavaScript  
+- 🐧 Linux (Fedora, Debian)  
+- 📂 Git • GitHub  
 
-```json
-{
-  "backend": [
-    "MySQL",
-    "SQLite"
-  ],
-  "languages": [
-    "C",
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java"
-  ]
-}
-```
+---
 
-## 📫 How to reach me
+🚀 **Goals**
 
-```javascript
-const contact = {
-  email: "m4caun4@gmail.com",
-}
-```
+- Improve in **low-level programming & offensive security**  
+- Build open-source tools and share knowledge  
+- Stay sharp against modern digital threats  
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+---
 
-process.exit(0); // Until next time 👋
-```
+📫 **Contact**
+
+- GitHub: [Konazin](https://github.com/Konazin)  
+- Email: *[your email here]*  
+- LinkedIn: *[optional]*  
+
+---
+
+🔐 *"Information security is not a goal, it's a continuous journey."*
+
+---
