@@ -39,8 +39,7 @@ Constantly learning about **networks, programming**, and **infosec**.
 📫 **Contact**
 
 - GitHub: [Konazin](https://github.com/Konazin)  
-- Email: *[your email here]*  
-- LinkedIn: *[optional]*  
+- Email: *m4caun4@gmail.com*   
 
 ---
 
