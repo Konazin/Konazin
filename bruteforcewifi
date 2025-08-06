@@ -1,0 +1,6 @@
+import random
+from itertools import product
+from multiprocessing import pool, cpu_count
+
+wifi = str(input("adicione o ip da rede: "))
+dist = int(input("adicione a quantidade de digitos da senha: "))
