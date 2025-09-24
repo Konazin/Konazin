@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Miguel Sousa (Konazin)</h1>
+<h1 align="center">👋 Hi there! I'm Miguel Sousa (Kona)</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Konazin&label=Profile%20views&color=0e75b6&style=flat" alt="Konazin" />
