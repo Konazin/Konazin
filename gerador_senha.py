@@ -1,45 +1,28 @@
 import random
 import string 
+import argparse
 
-cs = int(input('adicione a quantidade de caracteres para a senha'))
-q1 = str(input('deve conter caracteres especiais? [y][n]'))
-q2 = str(input('deve conter numeros?[y][n]'))
+def arguments():
+    parser = argparse.ArgumentParser(description="password-generator")
+    parser.add_argument("-l", "--length", dest="tamanho", type= int, required=True, help="length of the password")
+    parser.add_argument("-i", "--initial-name", dest="initial", type=str, help="initial name or number to add on password")
+    return parser.parse_args()
 
-senhap = []
-cha1 = string.ascii_lowercase + string.ascii_uppercase + string.punctuation
-cha2 = string.ascii_lowercase + string.ascii_uppercase
+def randomizer(len, initial):
+    strings = string.ascii_letters + string.digits + string.punctuation
+    rand = []
+    for _ in range(len):
+        senha = str(random.choice(strings))
+        rand.append(senha)
+    
+    if not initial:
+        print(''.join(rand))
+    else:
+        print(initial + ''.join(rand))
 
-if q1 and q2 == 'y':
-    for _ in range(cs):
-        ran = random.randint(1,2)
-        if ran == 1:
-            senha = random.choice(cha1)
-        else:
-            senha = str(random.randint(0,9))
-        senhap.append(senha)
+def main():
+    args = arguments()
+    randomizer(args.tamanho, args.initial)
 
-if q1 == 'n' and q2 == 'y':
-    for _ in range(cs):
-        ran = random.randint(1,2)
-        if ran == 1:
-            senha = random.choice(cha2)
-        else:
-            senha = str(random.randint(0,9))
-        senhap.append(senha)
-
-if q1 =='y' and q2 == 'n':
-    for _ in range(cs):
-        ran = random.randint(1,2)
-        senha = random.choice(cha1)
-        senhap.append(senha)
-
-if q1 and q2 == 'n':
-    for _ in range(cs):
-        ran = random.randint(1,2)
-        if ran == 1:
-            senha = random.choice(cha2)
-        else:
-            senha = str(random.randint(0,9))
-        senhap.append(senha)
-
-print(''.join(senhap))
+if __name__ == "__main__":
+    main()
