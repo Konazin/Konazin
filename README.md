@@ -40,6 +40,7 @@ Constantly learning about **networks, programming**, and **infosec**.
 
 - GitHub: [Konazin](https://github.com/Konazin)  
 - Email: *m4caun4@gmail.com*   
+- Repository : https://konazin.github.io/
 
 ---
 
