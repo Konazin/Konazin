@@ -20,10 +20,10 @@ Constantly learning about **networks, programming**, and **infosec**.
 🛠️ **Skills & Tools**
 
 - 🛡️ Cybersecurity • Ethical Hacking • Pentesting  
-- 🐍 Python • Bash • Shell  
-- ⚙️ C • SQL (learning)  
+- 🐍 Python • Bash  
+- ⚙️ C++ • SQL  
 - 🌐 HTML • CSS • JavaScript  
-- 🐧 Linux (Fedora, Debian)  
+- 🐧 Linux (Fedora, Debian, Kali)  
 - 📂 Git • GitHub  
 
 ---
