@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="" />
+  <img src="assets/manhathan.png" width="500" />
 </p>
 
 ---
