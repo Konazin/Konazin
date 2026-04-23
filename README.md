@@ -1,61 +1,59 @@
 <h1 align="center">👋 Hey, I'm Miguel Sousa (Kona)</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Konazin&label=Profile%20views&color=0e75b6&style=flat" alt="Konazin" />
+  <img src="https://komarev.com/ghpvc/?username=Konazin&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="assets/manhathan.png" width="550" />
+  <img src="assets/manhathan.png" width="500"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-
-I'm a **Developer & Cybersecurity Enthusiast** focused on building and securing systems.
-
-Currently studying **Internet Information Technology @ IMD/UFRN**,  
-with a strong interest in **low-level programming, backend development, and offensive security**.
-
-I like to understand how things work under the hood — from **APIs and databases** to **networks and system internals**.
+💻 Developer + 🛡️ Cybersecurity Enthusiast  
+🎓 IT @ IMD/UFRN  
+⚡ Focused on **Backend, Systems & Security**
 
 ---
 
-## 🧠 What I Work With
+## 🧠 Tech Stack
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,linux,docker,git,mysql" />
 
-- 💻 **Backend Development** (Node.js, APIs, databases)
-- 🛡️ **Cybersecurity** (Pentesting, OSINT, Network Analysis)
-- ⚙️ **Low-level & Systems** (C/C++, memory, performance)
-- 🌐 **Web Development** (HTML, CSS, JavaScript)
-- 🐧 **Linux Power User** (Debian, Fedora, Kali)
-
----
-
-## 🛠️ Tech Stack
-
-- Languages: **Python, C++, JavaScript, Bash, SQL**
-- Tools: **Git, Docker (learning), Linux, Wireshark**
-- Currently exploring: **Reverse Engineering, Networking, System Design**
+</p>
 
 ---
 
-## 📌 Current Focus
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Konazin&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Konazin&theme=tokyonight&hide_border=true"/>
+</p>
 
-- Building real-world backend projects  
-- Developing security-focused tools (ZeroSpecter 👀)  
-- Improving architecture & clean code practices  
-- Deepening knowledge in **networks and OS internals**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konazin&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Contact
+## ⚡ Current Focus
+- 🔧 Backend projects (real-world)
+- 🛡️ Security tools (ZeroSpecter)
+- ⚙️ Systems & performance
+- 🌐 Networking
 
-- GitHub: https://github.com/Konazin  
-- Email: m4caun4@gmail.com  
-- Portfolio: https://konazin.github.io/
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://github.com/Konazin">GitHub</a> •
+  <a href="mailto:m4caun4@gmail.com">Email</a> •
+  <a href="https://konazin.github.io/">Portfolio</a>
+</p>
 
 ---
 
 ## 🧩 Philosophy
-
-> "Good developers build systems. Great developers understand and secure them."
+> Build. Break. Understand. Secure.
