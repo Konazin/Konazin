@@ -40,7 +40,7 @@ Status : [■ ACTIVE] — building, learning, breaking things
 <div align="center">
 
 ![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Linux](https://skillicons.dev/icons?i=linux)
