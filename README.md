@@ -1,59 +1,97 @@
-<h1 align="center">👋 Hey, I'm Miguel Sousa (Kona)</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Konazin&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+```
+██╗  ██╗ ██████╗ ███╗   ██╗ █████╗
+██║ ██╔╝██╔═══██╗████╗  ██║██╔══██╗
+█████╔╝ ██║   ██║██╔██╗ ██║███████║
+██╔═██╗ ██║   ██║██║╚██╗██║██╔══██║
+██║  ██╗╚██████╔╝██║ ╚████║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
-<p align="center">
-  <img src="assets/manhathan.png" width="500"/>
-</p>
+**`Build. Break. Understand. Secure.`**
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=Konazin&label=Profile%20views&color=00e5a0&style=flat)](https://github.com/Konazin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-konazin.github.io-00e5a0?style=flat&logo=github)](https://konazin.github.io/)
+[![Email](https://img.shields.io/badge/Email-m4caun4%40gmail.com-00aaff?style=flat&logo=gmail)](mailto:m4caun4@gmail.com)
 
-## 🚀 About Me
-💻 Developer + 🛡️ Cybersecurity Enthusiast  
-🎓 IT @ IMD/UFRN  
-⚡ Focused on **Backend, Systems & Security**
-
----
-
-## 🧠 Tech Stack
-<p align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,cpp,js,bash,linux,docker,git,mysql" />
-
-</p>
+</div>
 
 ---
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Konazin&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Konazin&theme=tokyonight&hide_border=true"/>
-</p>
+## $ whoami
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konazin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+```bash
+Name   : Miguel Sousa
+Alias  : Kona / Konazin
+Role   : Backend Developer + Cybersecurity Enthusiast
+School : IMD / UFRN — Information Technology
+OS     : Linux
+Status : [■ ACTIVE] — building, learning, breaking things
+```
 
----
-
-## ⚡ Current Focus
-- 🔧 Backend projects (real-world)
-- 🛡️ Security tools (ZeroSpecter)
-- ⚙️ Systems & performance
-- 🌐 Networking
+> IT student at **IMD/UFRN** focused on **backend engineering**, **systems programming** and **security tooling**.
+> I write code that works under pressure, understand how it breaks, and make sure others can't break it.
 
 ---
 
-## 🌐 Connect
-<p align="center">
-  <a href="https://github.com/Konazin">GitHub</a> •
-  <a href="mailto:m4caun4@gmail.com">Email</a> •
-  <a href="https://konazin.github.io/">Portfolio</a>
-</p>
+## 🧠 tech stack
+
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+
+</div>
 
 ---
 
-## 🧩 Philosophy
-> Build. Break. Understand. Secure.
+## ⚡ current focus
+
+| # | Area | Description |
+|---|------|-------------|
+| 01 | **Backend Engineering** | Real-world backend projects — APIs, services, data pipelines |
+| 02 | **Security Tools** | Building **ZeroSpecter** — offensive & defensive security tooling |
+| 03 | **Systems & Performance** | Low-level programming, OS internals, performance-critical code |
+| 04 | **Networking** | Protocols, packet analysis, infrastructure security |
+
+---
+
+## 📊 stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Konazin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0c0f&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Konazin&theme=tokyonight&hide_border=true&background=0a0c0f&ring=00e5a0&fire=ff4f6a&currStreakLabel=00e5a0" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konazin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0c0f&title_color=00e5a0&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+## 🔗 connect
+
+<div align="center">
+
+[**GitHub**](https://github.com/Konazin) &nbsp;·&nbsp;
+[**Portfolio**](https://konazin.github.io/) &nbsp;·&nbsp;
+[**Email**](mailto:m4caun4@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+Build. Break. Understand. Secure.
+```
+
+</div>
