@@ -27,7 +27,7 @@ Alias  : Kona / Konazin
 Role   : Backend Developer + Cybersecurity Enthusiast
 School : IMD / UFRN — Information Technology
 OS     : Linux
-Status : [■ ACTIVE] — building, learning, breaking things
+Status : [■ BUSY] — building, learning, breaking things
 ```
 
 > IT student at **IMD/UFRN** focused on **backend engineering**, **systems programming** and **security tooling**.
