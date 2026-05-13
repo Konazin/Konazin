@@ -67,9 +67,9 @@ Status : [■ BUSY] — building, learning, breaking things
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Konazin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0c0f&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=Konazin&theme=tokyonight&hide_border=true&background=0a0c0f&ring=00e5a0&fire=ff4f6a&currStreakLabel=00e5a0" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konazin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0c0f&title_color=00e5a0&text_color=c9d1d9"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?username=Konazin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0c0f&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Konazin&theme=tokyonight&hide_border=true&background=0a0c0f&ring=00e5a0&fire=ff4f6a&currStreakLabel=00e5a0" width="48%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?username=Konazin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0c0f&title_color=00e5a0&text_color=c9d1d9"/>
 
 </div>
 
