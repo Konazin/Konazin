@@ -1,13 +1,12 @@
+````md
 <div align="center">
 
-```
 ██╗  ██╗ ██████╗ ███╗   ██╗ █████╗
 ██║ ██╔╝██╔═══██╗████╗  ██║██╔══██╗
 █████╔╝ ██║   ██║██╔██╗ ██║███████║
 ██╔═██╗ ██║   ██║██║╚██╗██║██╔══██║
 ██║  ██╗╚██████╔╝██║ ╚████║██║  ██║
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
-```
 
 **`Build. Break. Understand. Secure.`**
 
@@ -19,23 +18,29 @@
 
 ---
 
-## $ whoami
+# $ whoami
 
 ```bash
-Name   : Miguel Sousa
-Alias  : Kona / Konazin
-Role   : Backend Developer + Cybersecurity Enthusiast
-School : IMD / UFRN — Information Technology
-OS     : Linux
-Status : [■ BUSY] — building, learning, breaking things
-```
+Name     : Miguel Sousa
+Alias    : Kona / Konazin
+Role     : Backend Intern + Cybersecurity Enthusiast
+School   : IMD / UFRN — Information Technology (Natal, RN)
+OS       : Linux
+Focus    : Backend · Security · Systems Programming
+Status   : [■ BUSY] — building, learning and breaking things
+````
 
-> IT student at **IMD/UFRN** focused on **backend engineering**, **systems programming** and **security tooling**.
-> I write code that works under pressure, understand how it breaks, and make sure others can't break it.
+> IT student at **IMD/UFRN** currently interning and focused on
+> **backend engineering**, **systems programming** and
+> **security tooling**.
+
+> I build software that works under pressure,
+> understand how it breaks,
+> and design systems that are harder to break.
 
 ---
 
-## 🧠 tech stack
+# 🧠 tech stack
 
 <div align="center">
 
@@ -43,45 +48,77 @@ Status : [■ BUSY] — building, learning, breaking things
 ![C](https://skillicons.dev/icons?i=c)
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 </div>
 
 ---
 
-## ⚡ current focus
+# 🚀 featured projects
 
-| # | Area | Description |
-|---|------|-------------|
-| 01 | **Backend Engineering** | Real-world backend projects — APIs, services, data pipelines |
-| 02 | **Security Tools** | Building **ZeroSpecter** — offensive & defensive security tooling |
-| 03 | **Systems & Performance** | Low-level programming, OS internals, performance-critical code |
-| 04 | **Networking** | Protocols, packet analysis, infrastructure security |
+| Project                                                               | Description                                                                                                  | Stack                            |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------- |
+| **[ZeroShield](https://github.com/Konazin/ZeroShield)**               | Modular security suite focused on file analysis, DNS protection, website verification and network monitoring | `Python` `Security` `Networking` |
+| **[ZeroSpecterC](https://github.com/Konazin/ZeroSpecterC)**           | Low-level security and systems programming experiments focused on performance and memory control             | `C` `Linux`                      |
+| **[ZeroSpecter](https://github.com/Konazin/Zer0Specter)**             | Offensive security tooling for reconnaissance, ZIP analysis and networking experimentation                   | `Python` `Bash`                  |
+| **[AgnesIA](https://github.com/Konazin/AgnesIA)**                     | Experimental conversational AI assistant with custom interaction systems and personality architecture        | `Python` `AI`                    |
+| **[QA-lovable-tester](https://github.com/Konazin/QA-lovable-tester)** | QA and testing-focused tooling built with TypeScript and modern automation workflows                         | `TypeScript`                     |
+| **[vscode-lusa](https://github.com/Konazin/vscode-lusa)**             | Visual Studio Code extension for the Lusalang ecosystem                                                      | `JavaScript` `VSCode API`        |
 
 ---
 
-## 📊 stats
+# ⚡ current focus
+
+| #  | Area                    | Description                                                  |
+| -- | ----------------------- | ------------------------------------------------------------ |
+| 01 | **Backend Engineering** | APIs, services, microservices and backend infrastructure     |
+| 02 | **Security Tooling**    | Offensive & defensive security projects and automation       |
+| 03 | **Systems Programming** | Low-level development, memory management and Linux internals |
+| 04 | **Networking**          | Protocols, packet analysis and infrastructure security       |
+| 05 | **Dev Tooling**         | CLI tooling, VSCode extensions and developer workflows       |
+
+---
+
+# 📊 github stats
 
 <div align="center">
-
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Konazin&theme=tokyonight&hide_border=true&background=0a0c0f&ring=00e5a0&fire=ff4f6a&currStreakLabel=00e5a0" width="48%"/>
 
+ 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konazin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0c0f&title_color=00e5a0&text_color=e8ecf0" width="38%"/>
 
 </div>
 
 ---
 
-## 🔗 connect
+# 🐧 environment
+
+```bash
+OS        : Arch / Linux
+Editor    : VSCode + Neovim
+Shell     : Zsh / Bash
+WM         : Hyprland
+Interests : Cybersecurity · Systems · Backend · Networking
+```
+
+---
+
+# 🔗 connect
 
 <div align="center">
 
-[**GitHub**](https://github.com/Konazin) &nbsp;·&nbsp;
-[**Portfolio**](https://konazin.github.io/) &nbsp;·&nbsp;
+[**GitHub**](https://github.com/Konazin)
+ · 
+[**Portfolio**](https://konazin.github.io/)
+ · 
 [**Email**](mailto:m4caun4@gmail.com)
 
 </div>
@@ -90,8 +127,11 @@ Status : [■ BUSY] — building, learning, breaking things
 
 <div align="center">
 
-```
+```bash
 Build. Break. Understand. Secure.
 ```
 
+*backend intern · security enthusiast · always building*
+
 </div>
+```
