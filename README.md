@@ -47,6 +47,7 @@ Status : [■ BUSY] — building, learning, breaking things
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
+![Java](https://skillicons.dev/icons?i=java)
 
 </div>
 
