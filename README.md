@@ -71,6 +71,7 @@ Status   : [■ BUSY] — building, learning and breaking things
 | **[AgnesIA](https://github.com/Konazin/AgnesIA)**                     | Experimental conversational AI assistant with custom interaction systems and personality architecture        | `Python` `AI`                    |
 | **[QA-lovable-tester](https://github.com/Konazin/QA-lovable-tester)** | QA and testing-focused tooling built with TypeScript and modern automation workflows                         | `TypeScript`                     |
 | **[vscode-lusa](https://github.com/Konazin/vscode-lusa)**             | Visual Studio Code extension for the Lusalang ecosystem                                                      | `JavaScript` `VSCode API`        |
+| **[ZeroInsight](https://github.com/Konazin/ZeroInsight)**             | Automation tool to genareate technical posts with AI vision                                                  | `JavaScript` `VSCode API`        |
 
 ---
 
