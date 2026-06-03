@@ -72,6 +72,7 @@ Status   : [■ BUSY] — building, learning and breaking things
 | **[QA-lovable-tester](https://github.com/Konazin/QA-lovable-tester)** | QA and testing-focused tooling built with TypeScript and modern automation workflows                         | `TypeScript`                     |
 | **[vscode-lusa](https://github.com/Konazin/vscode-lusa)**             | Visual Studio Code extension for the Lusalang ecosystem                                                      | `JavaScript` `VSCode API`        |
 | **[ZeroInsight](https://github.com/Konazin/ZeroInsight)**             | Automation tool to genareate technical posts with AI vision                                                  | `Python` `Brave` `AI integration`        |
+| **[ZeroCoding](https://github.com/Konazin/ZeroCoding)**             | A AI agent based on CLI focused on building and testing softwares                                                  | `Python` `AI integration` `Local AI friendly`        |
 
 ---
 
