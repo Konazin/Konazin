@@ -178,11 +178,28 @@ Responsive institutional website developed from a professional visual identity s
 
 ## GitHub activity
 
+## GitHub activity
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Konazin&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="GitHub profile details"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konazin&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" />
+  <br><br>
+
+  <img
+    width="49%"
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Repositories per language"
+  />
+
+  <img
+    width="49%"
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    alt="GitHub statistics"
+  />
 
 </div>
 
