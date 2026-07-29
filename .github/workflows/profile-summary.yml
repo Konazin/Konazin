@@ -1,0 +1,29 @@
+name: Generate GitHub Profile Cards
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Executa diariamente às 03:00 UTC, meia-noite no horário de Fortaleza.
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SummaryGithub }}
+        with:
+          USERNAME: Konazin
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+          AUTO_PUSH: true
