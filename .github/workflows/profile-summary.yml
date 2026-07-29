@@ -21,7 +21,7 @@ jobs:
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SummaryGithub }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARYGITHUB }}
         with:
           USERNAME: Konazin
           BRANCH_NAME: main
