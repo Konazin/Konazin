@@ -178,28 +178,41 @@ Responsive institutional website developed from a professional visual identity s
 
 ## GitHub activity
 
-## GitHub activity
-
 <div align="center">
 
   <img
+    width="100%"
     src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     alt="GitHub profile details"
   />
 
-  <br><br>
+  <br>
 
-  <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    alt="Repositories per language"
-  />
-
-  <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    alt="GitHub statistics"
-  />
+  <table>
+    <tr>
+      <td width="33%">
+        <img
+          width="100%"
+          src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+          alt="Repositories per language"
+        />
+      </td>
+      <td width="33%">
+        <img
+          width="100%"
+          src="./profile-summary-card-output/github_dark/3-stats.svg"
+          alt="GitHub statistics"
+        />
+      </td>
+      <td width="33%">
+        <img
+          width="100%"
+          src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+          alt="Productive time"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
